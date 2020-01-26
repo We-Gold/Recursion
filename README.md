@@ -1,4 +1,4 @@
-# Fractals
+# Recursion
 
 Fun Fractals Trees And More! Made in Processing
 
