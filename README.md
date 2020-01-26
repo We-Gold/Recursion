@@ -17,3 +17,9 @@ This is a demo of a recursively generated sierpinski carpet!
 (The larger the size of the window, the more detailed the image!)
 
 ![Sierpinski Carpet](https://github.com/We-Gold/Fractals/raw/master/sierpinski%20carpet%20demo.gif)
+
+## Sierpinski Triangle
+
+This is a demo of a recursively generated sierpinski triangle!
+
+![Sierpinski Triangle](https://github.com/We-Gold/Recursion/raw/master/sierpinski%20triangle%20demo.gif)
