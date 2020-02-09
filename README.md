@@ -10,6 +10,14 @@ This is a simple demo of recursive fractal trees in processing!
 
 ![Fractal Trees](https://github.com/We-Gold/Fractals/raw/master/demo.gif)
 
+### Abnormal Fractal Trees
+
+This is a demo of two types of more complex fractal trees. 
+One tree can split into many branches, not just two. 
+The other can have each branch split at a different angle.
+
+![Abnormal Fractal Trees](https://github.com/We-Gold/Recursion/raw/master/abnormal%20trees%20demo.gif)
+
 ## Sierpinski Carpet
 
 This is a demo of a recursively generated sierpinski carpet!
