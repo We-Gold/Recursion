@@ -31,3 +31,9 @@ This is a demo of a recursively generated sierpinski carpet!
 This is a demo of a recursively generated sierpinski triangle!
 
 ![Sierpinski Triangle](https://github.com/We-Gold/Recursion/raw/master/sierpinski%20triangle%20demo.gif)
+
+## Tower Of Hanoi
+
+This is a demo of a recursive solution to the Tower of Hanoi problem.
+
+![Tower of Hanoi](https://github.com/We-Gold/Recursion/raw/master/tower%20of%20hanoi%20demo.gif)
